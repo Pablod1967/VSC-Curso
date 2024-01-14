@@ -1,1 +1,1 @@
-console.log("Vaaamo N")
+console.log("Vaaamo NE")
